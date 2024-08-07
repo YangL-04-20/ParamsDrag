@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c448ef0f-c5e3-45fa-a7f4-63ddf0c035e4)# ParamsDrag
+# ParamsDrag
 The source code for our IEEE VIS 2024 paper "ParamsDrag: Interactive Parameter Space Exploration via Image-Space Dragging". This branch is for the Gadget2 dataset, which is 512 resolution.
 
 >**ParamsDrag: Interactive Parameter Space Exploration via Image-Space Dragging**<br>
