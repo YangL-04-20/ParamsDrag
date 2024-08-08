@@ -32,7 +32,7 @@ orimage = G(sp=sparams, vp=vparams, force_fp32=True)
 
 maxit = 80
 switch = 1
-out = drag_gan(sparams, vparams, G, handle_point, target_point, mask=None, max_iters=maxit, bound=5, threshhold=15, Rm=8, d=1, lr=0.01,)
+out = drag_gan(sparams, vparams, G, handle_point, target_point, mask=None, max_iters=maxit, bound=5, threshhold=15, Rm=8, d=1, lr=0.01)
 for i in range(maxit):
     img, W_out, handle_points = next(out)
     if switch == 1:
