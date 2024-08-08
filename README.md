@@ -64,7 +64,4 @@ If you use this code for your research, please cite our paper.
 }
 ```
 
-## Acknowledgments
-This work was supported by the National Key Research and Development Program of China (Grant No.2023YFB3002500) and the National Natural Science Foundation of China (No.62202446). The numerical calculations in this study were carried out on the ORISE Supercomputer and the Earth System Numerical Simulation Facility (EarthLab).
-
 
