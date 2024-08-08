@@ -16,7 +16,7 @@ from drag_pipline import *
 search_patch.counter = 0
 
 device = torch.device("cuda")
-G = load_model()
+G = load_model(network_pkl=resume)
 
 # set initial parameters
 sparams = torch.tensor([[0.1, 0.9, 1.0]]).to(device)
